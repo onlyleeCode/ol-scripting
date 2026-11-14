@@ -1,0 +1,20 @@
+{
+  "name": "chongqing-tou",
+  "icon": "bolt.fill",
+  "color": "#FFC53D",
+  "version": "1.0.0",
+  "runInApp": true,
+  "entry": "index.tsx",
+  "description": "Chongqing residential time-of-use electricity price: live peak/flat/valley status, three-tier prices and next-switch countdown, with a home screen widget.",
+  "author": {
+    "name": "onlyleeCode"
+  },
+  "localizedNames": {
+    "zh": "重庆峰平谷电价",
+    "en": "Chongqing TOU Price"
+  },
+  "localizedDescriptions": {
+    "zh": "重庆居民分时电价：实时峰平谷判定、三档电价与切换倒计时，支持主屏幕小组件。",
+    "en": "Chongqing residential TOU price: live peak/flat/valley status, tier prices and switch countdown, with a home screen widget."
+  }
+}
